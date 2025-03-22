@@ -8,7 +8,7 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Peasant_Man_02
-    second: {fileID: 2100000, guid: 250ea9bdbfc0b244cb5e51be5ac20c2f, type: 2}
+    second: {fileID: -6727321440440903118, guid: 7d409e1bec78b444980816524549a610, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
